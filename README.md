@@ -1,2 +1,6 @@
 # hello_world
-my first repository
+my first repository :)
+
+I love 🍕!
+
+Angela is pretty hha
